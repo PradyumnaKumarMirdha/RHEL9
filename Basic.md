@@ -1,8 +1,9 @@
 
 # Linux File System Structure
 
+![image](https://imgs.search.brave.com/Xm-jCixJWeNdfkfg8oOHjs1w7cuUNwRox_RM-saPm5s/rs:fit:1200:1001:1/g:ce/aHR0cHM6Ly9sY29t/LnN0YXRpYy5saW51/eGZvdW5kLm9yZy9z/aXRlcy9sY29tL2Zp/bGVzL3N0YW5kYXJk/LXVuaXgtZmlsZXN5/c3RlbS1oaWVyYXJj/aHkucG5n)
 
-<img src="https://imgs.search.brave.com/Xm-jCixJWeNdfkfg8oOHjs1w7cuUNwRox_RM-saPm5s/rs:fit:1200:1001:1/g:ce/aHR0cHM6Ly9sY29t/LnN0YXRpYy5saW51/eGZvdW5kLm9yZy9z/aXRlcy9sY29tL2Zp/bGVzL3N0YW5kYXJk/LXVuaXgtZmlsZXN5/c3RlbS1oaWVyYXJj/aHkucG5n"allign="center">
+
 
 ____________
 
