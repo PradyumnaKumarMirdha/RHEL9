@@ -211,10 +211,6 @@ Home directory of root user.
 Super User binary or System user binary. 
 
 ```bash
-
-```
-
-```bash
 [root@localhost /]# fdisk -l
 
 Disk /dev/nvme0n1: 25 GiB, 26843545600 bytes, 52428800 sectors
