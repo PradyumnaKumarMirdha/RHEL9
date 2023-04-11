@@ -92,10 +92,7 @@
     
 
 1. Basics
-    
-    i.  Introduction
-    
-    ii. File system 
-    
-    iii. Help and MAN command
+    1. Introduction
+    2. File system 
+    3. Help and MAN command
     
