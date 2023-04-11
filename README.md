@@ -90,7 +90,12 @@
 
 -  _**Course Content**_
     
-- Basics
-    1.1.  Introduction
-    1.2. File system
-    1.3. Help & MAN Command
+
+1. Basics
+    
+    i.  Introduction
+    
+    ii. File system 
+    
+    iii. Help and MAN command
+    
